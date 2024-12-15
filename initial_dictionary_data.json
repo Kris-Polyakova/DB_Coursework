@@ -1,0 +1,13 @@
+[
+    {"model": "initial_dictionary", "pk": 1, "fields": {"eng_word": "landscape", "ru_word": "пейзаж"}},
+    {"model": "initial_dictionary", "pk": 2, "fields": {"eng_word": "purple", "ru_word": "фиолетовый"}},
+    {"model": "initial_dictionary", "pk": 3, "fields": {"eng_word": "attractive", "ru_word": "привлекательный"}},
+    {"model": "initial_dictionary", "pk": 4, "fields": {"eng_word": "empathy", "ru_word": "сочувствие"}},
+    {"model": "initial_dictionary", "pk": 5, "fields": {"eng_word": "sociopath", "ru_word": "социопат"}},
+    {"model": "initial_dictionary", "pk": 6, "fields": {"eng_word": "conclusion", "ru_word": "заключение"}},
+    {"model": "initial_dictionary", "pk": 7, "fields": {"eng_word": "meticulous", "ru_word": "дотошный"}},
+    {"model": "initial_dictionary", "pk": 8, "fields": {"eng_word": "impeccable", "ru_word": "безупречный"}},
+    {"model": "initial_dictionary", "pk": 9, "fields": {"eng_word": "requirement", "ru_word": "требование"}},
+    {"model": "initial_dictionary", "pk": 10, "fields": {"eng_word": "stationery", "ru_word": "канцелярские товары"}}
+]
+
